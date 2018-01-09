@@ -1,0 +1,28 @@
+C:\Users\Raneem\Desktop\The Utility Project\The Utility Project\obj\Debug\The Utility Project.csprojResolveAssemblyReference.cache
+C:\Users\Raneem\Desktop\The Utility Project\The Utility Project\obj\Debug\The_Utility_Project.Properties.Resources.resources
+C:\Users\Raneem\Desktop\The Utility Project\The Utility Project\obj\Debug\The Utility Project.csproj.GenerateResource.Cache
+C:\Users\Raneem\Desktop\The Utility Project\The Utility Project\bin\Debug\The Utility Project.exe.config
+C:\Users\Raneem\Desktop\The Utility Project\The Utility Project\bin\Debug\The Utility Project.exe
+C:\Users\Raneem\Desktop\The Utility Project\The Utility Project\bin\Debug\The Utility Project.pdb
+C:\Users\Raneem\Desktop\The Utility Project\The Utility Project\obj\Debug\The Utility Project.exe
+C:\Users\Raneem\Desktop\The Utility Project\The Utility Project\obj\Debug\The Utility Project.pdb
+C:\Users\Raneem\Desktop\The Utility Project\The Utility Project\bin\Debug\UtilityDatabase.mdb
+C:\Users\Raneem\Desktop\The Utility Project\The Utility Project\obj\Debug\The_Utility_Project.Details.resources
+C:\Users\Raneem\Desktop\The Utility Project\The Utility Project\obj\Debug\The_Utility_Project.OrderForm.resources
+C:\Users\Raneem\Desktop\The Utility Project\The Utility Project\obj\Debug\The_Utility_Project.SummaryForm.resources
+F:\The Utility Project\The Utility Project\bin\Debug\UtilityDatabase.mdb
+F:\The Utility Project\The Utility Project\bin\Debug\The Utility Project.exe.config
+F:\The Utility Project\The Utility Project\bin\Debug\The Utility Project.exe
+F:\The Utility Project\The Utility Project\bin\Debug\The Utility Project.pdb
+F:\The Utility Project\The Utility Project\obj\Debug\The Utility Project.csprojResolveAssemblyReference.cache
+F:\The Utility Project\The Utility Project\obj\Debug\The_Utility_Project.Details.resources
+F:\The Utility Project\The Utility Project\obj\Debug\The_Utility_Project.OrderForm.resources
+F:\The Utility Project\The Utility Project\obj\Debug\The_Utility_Project.Properties.Resources.resources
+F:\The Utility Project\The Utility Project\obj\Debug\The_Utility_Project.SummaryForm.resources
+F:\The Utility Project\The Utility Project\obj\Debug\The Utility Project.csproj.GenerateResource.Cache
+F:\The Utility Project\The Utility Project\obj\Debug\The Utility Project.exe
+F:\The Utility Project\The Utility Project\obj\Debug\The Utility Project.pdb
+C:\Users\Raneem\Desktop\The Utility Project\The Utility Project\bin\Debug\The Utility Project.exe.manifest
+C:\Users\Raneem\Desktop\The Utility Project\The Utility Project\bin\Debug\The Utility Project.application
+C:\Users\Raneem\Desktop\The Utility Project\The Utility Project\obj\Debug\The Utility Project.exe.manifest
+C:\Users\Raneem\Desktop\The Utility Project\The Utility Project\obj\Debug\The Utility Project.application
